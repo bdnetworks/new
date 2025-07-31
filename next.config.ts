@@ -18,7 +18,7 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: 'https',
-        hostname: 'skill-shikhun.netlify.app',
+        hostname: 'i.imgur.com',
         port: '',
         pathname: '/**',
       }
